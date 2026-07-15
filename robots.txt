@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-s1lyfo.mongoltape.asia/sitemap.xml
